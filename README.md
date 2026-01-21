@@ -43,3 +43,5 @@ Developed two dashboards using datasets created via SQL queries, tailored specif
 2. Validated the space by testing natural language queries, reviewing generated SQL code, and providing feedback to improve accuracy.
 
 ![Preview](https://github.com/nikitha-learning98/Data-Analytics-Using-Databricks/blob/main/Genie%20Space.png)
+
+Reference: The datasets utilized in this project were sourced from a 'Databricks Bootcamp' led by 'Data with Baraa'
