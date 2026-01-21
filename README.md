@@ -34,7 +34,7 @@ Developed two dashboards using datasets created via SQL queries, tailored specif
 
 2. Customer Dashboard: Analyzes customer volume, average spend, and age-based purchasing habits.
 
-
+![Preview](https://github.com/nikitha-learning98/Data-Analytics-Using-Databricks/blob/main/Customer%20Dashboard.png)
 
 #Databricks Genie:
 1. Developed a Genie space by providing instructions and seeding it with sample questions to guide the AI's logic.
