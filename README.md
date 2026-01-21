@@ -1,8 +1,9 @@
 # Data Analytics Using Databricks
-
+---
 ##📊 Project Overview
 This project demonstrates a comprehensive data analytics workflow within the Databricks ecosystem. I transformed raw CSV datasets into actionable business insights by leveraging Unity Catalog for data governance, Databricks SQL for deep-dive analysis, and integrated Dashboards for data storytelling. This project showcases a complete data lifecycle within the Databricks Data Intelligence Platform. I have created a "Genie Space," allowing non-technical stakeholders to chat directly with the data to gain insights.
 
+---
 #🛠️ Tech Stack & Features
 Environment: Databricks (Free Edition)
 Storage: Unity Catalog (Schema & Table management)
@@ -10,6 +11,7 @@ Query Engine: Databricks SQL Warehouse
 Visualization: Databricks SQL Dashboards
 Language: SQL
 
+---
 ##🚀 Workflow
 
 #Data Ingestion:
