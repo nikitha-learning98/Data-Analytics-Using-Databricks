@@ -41,3 +41,5 @@ Developed two dashboards using datasets created via SQL queries, tailored specif
 # Databricks Genie:
 1. Developed a Genie space by providing instructions and seeding it with sample questions to guide the AI's logic.
 2. Validated the space by testing natural language queries, reviewing generated SQL code, and providing feedback to improve accuracy.
+
+![Preview](https://github.com/nikitha-learning98/Data-Analytics-Using-Databricks/blob/main/Genie%20Space.png)
