@@ -30,7 +30,7 @@ Created Visualization for the SQL queries which are used for analysis and added 
 Developed two dashboards using datasets created via SQL queries, tailored specifically to meet business needs.
 1. Sales Dashboard: Tracks total revenue, monthly trends, and category performance.
 
-https://github.com/nikitha-learning98/Data-Analytics-Using-Databricks/blob/main/Sales%20Dashboard.png
+![Preview](https://github.com/nikitha-learning98/Data-Analytics-Using-Databricks/blob/main/Sales%20Dashboard.png)
 
 2. Customer Dashboard: Analyzes customer volume, average spend, and age-based purchasing habits.
 
